@@ -1,0 +1,7 @@
+C:\TechInventoryReport\TechInventoryReport\TechInventoryReport\bin\Debug\TechInventoryReport.exe
+C:\TechInventoryReport\TechInventoryReport\TechInventoryReport\bin\Debug\TechInventoryReport.pdb
+C:\TechInventoryReport\TechInventoryReport\TechInventoryReport\bin\Debug\itextsharp.dll
+C:\TechInventoryReport\TechInventoryReport\TechInventoryReport\bin\Debug\itextsharp.xml
+C:\TechInventoryReport\TechInventoryReport\TechInventoryReport\obj\x86\Debug\TechInventoryReport.exe
+C:\TechInventoryReport\TechInventoryReport\TechInventoryReport\obj\x86\Debug\TechInventoryReport.pdb
+C:\TechInventoryReport\TechInventoryReport\TechInventoryReport\obj\x86\Debug\TechInventoryReport.csprojResolveAssemblyReference.cache
